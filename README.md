@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - **Database:** MongoDB
 - **Others:** Git, GitHub, OpenCV, TensorFlow, YOLOv5
 
-###⚡ Fun fact: When I'm not coding, you might find me deep diving in the HipHop music!
+### 🎯 **Fun Fact:**
+When I'm not coding, you might find me deep diving in the HipHop music!
 
 Thanks for stopping by! 😊
 
